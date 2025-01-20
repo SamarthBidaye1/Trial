@@ -1,0 +1,6 @@
+What is a git?
+---> git is a software that helps to manage the code update it and make it work 
+     on team.
+
+What is GitHub?
+--->Github is a software that stores the data and helps to acess in which ever document
