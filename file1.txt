@@ -1,0 +1,5 @@
+This is file one which need to be added in github.
+
+My Name is Samarth i am a Beginner Level Web Developer 
+
+Here creating this Repository for Pratice Purpose.
